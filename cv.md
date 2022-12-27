@@ -56,7 +56,8 @@ return false
 **********************************************************
 ### Courses:
 
-* javascript on the Stepik.or (completed)
+* Javascript on the Stepik.or (completed)
+
 ![certificate](https://stepik.org/certificate/36eb9ebc297f077f183e214b0dc587c8205f5990.png?resolution=low) 
 
 * HTML, CSS. Basics of creating on the COSINUS (completed)
