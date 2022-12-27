@@ -38,7 +38,7 @@ Please have a look at my personal project for more details about me. Currently I
 
 ### Code example:
 
-**Isograms KATA from CODEWARS:***An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a string that contains only letters is an isogram. Assume the empty string is an isogram. Ignore letter case.*
+**Isograms KATA from CODEWARS:** *An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a string that contains only letters is an isogram. Assume the empty string is an isogram. Ignore letter case.*
 
 ```
 function isIsogram(str){
@@ -57,7 +57,7 @@ return false
 ### Courses:
 
 * javascript on the Stepik.or (completed)
-![certificate](https://stepik.org/certificate/36eb9ebc297f077f183e214b0dc587c8205f5990.pdf) 
+![certificate](https://stepik.org/certificate/36eb9ebc297f077f183e214b0dc587c8205f5990.png?resolution=low) 
 
 * HTML, CSS. Basics of creating on the COSINUS (completed)
 * RS Schools Course JavaScript/Front-end. Stage 0 (in progress)
