@@ -1,3 +1,9 @@
+@font-face {
+  font-family: Heebo;
+  src: url('assets/font/Heebo-VariableFont_wght.ttf');
+  font-weight: 400;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -16,7 +22,26 @@ html {
 }
 
 body {
-  max-width: 100%;
+  font-family: 'Heebo', sans-serif;
   height: auto;
   font-size: 16px;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1200px;
+  background-color: #010820;
+}
+
+img {
+  width: 200px;
+  height: 250px;
+}
+h1 {
+  font-size: 40px;
+  color: #fff;
+}
+
+h2 {
+  color: #fff;
 }
