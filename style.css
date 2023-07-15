@@ -125,6 +125,7 @@ a {
 .main__container {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-between;
 }
 .section {
   width: 50%;
@@ -140,10 +141,52 @@ a {
   position: absolute;
   top: 8px;
   left: 0px;
-  width: 10px;
-  height: 10px;
-  border: 1px solid #829985;
-  border-radius: 50%;
+  width: 15px;
+  height: 15px;
+  border: 1px solid #010820;
+  border-radius: 20%;
+  background-color: rgb(139, 134, 0);
+}
+
+.contact__list {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  list-style-position: inside;
+}
+.list__item {
+  margin-left: 10px;
+}
+
+#location {
+  background: url('assets/img/location.png');
+  background-size: 18px;
+  background-repeat: no-repeat;
+  padding-left: 30px;
+}
+#mail {
+  background: url('assets/img/mail.png');
+  background-size: 18px;
+  background-repeat: no-repeat;
+  padding-left: 30px;
+}
+#telegram {
+  background: url('assets/img/telegram.png');
+  background-size: 18px;
+  background-repeat: no-repeat;
+  padding-left: 30px;
+}
+#linkedin {
+  background: url('assets/img/linkedin.png');
+  background-size: 18px;
+  background-repeat: no-repeat;
+  padding-left: 30px;
+}
+#discord {
+  background: url('assets/img/discord.png');
+  background-size: 18px;
+  background-repeat: no-repeat;
+  padding-left: 30px;
 }
 /* main finish */
 /* footer start  */
