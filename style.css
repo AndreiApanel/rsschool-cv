@@ -3,6 +3,12 @@
   src: url('assets/font/Heebo-VariableFont_wght.ttf');
 }
 
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
+
 html {
   box-sizing: border-box;
 }
@@ -48,6 +54,7 @@ body {
   justify-content: flex-end;
   align-items: center;
   min-height: 50px;
+  border-radius: 5px 5px 5px 5px;
   box-shadow: 0 15px 10px 0 rgb(255, 204, 0);
 }
 .menu__list {
@@ -108,10 +115,25 @@ a {
 /* header finish */
 /* main start  */
 .main {
+  background-color: #464959;
   flex-grow: 1;
+}
+
+.main__container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.section {
+  width: 50%;
+}
+.section-title {
+  color: rgb(139, 134, 0);
 }
 /* main finish */
 /* footer start  */
+.footer {
+  background-color: #010820;
+}
 
 .wrapper__footer {
   display: flex;
