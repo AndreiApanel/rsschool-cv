@@ -4,7 +4,7 @@
 
 ---
 
-![myphoto](assets/img/Git.jpg)
+![myphoto](assets/img/git.jpg)
 
 ---
 
