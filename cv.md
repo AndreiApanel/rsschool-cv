@@ -1,9 +1,13 @@
 # Andrei Apanel
-### Junior Frontend Developer
-**************************************
-![myphoto](https://media.licdn.com/dms/image/C5603AQHT4daywJ_1zA/profile-displayphoto-shrink_200_200/0/1615801502004?e=1677715200&v=beta&t=vrmu8-lKPWdUjRnWJ5kPVl2UgKl-vOPlCKvezO42Yks)
 
-*********************************************
+### Junior Frontend Developer
+
+---
+
+![myphoto](assets/img/git.jpg)
+
+---
+
 ### Contact information:
 
 **Phone** +48 695666354
@@ -16,9 +20,10 @@
 
 **Discord:** Andrei (@Andrei (AP0SHA)#9669)
 
-*********************************************
+---
 
 ### About Myself
+
 I love developing useful and meaningful software. Although I try to find beutiful and elegant soulutions.
 
 I'm currently honing my skills by developing personal projects.
@@ -27,19 +32,20 @@ If I can be of assistance, please do not hesitate to contact me.
 
 Please have a look at my personal project for more details about me. Currently I'm open for work.
 
-*********************************************
+---
+
 ### Skills and Proficiency:
 
-* HTML5,CSS
-* JavaScript
-* Git, GitHub
-* VS Code, Adobe Photoshop
+- HTML5,CSS
+- JavaScript
+- Git, GitHub
+- VS Code, Adobe Photoshop
 
-*********************************************
+---
 
 ### Code example:
 
-**Isograms KATA from CODEWARS:** *An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a string that contains only letters is an isogram. Assume the empty string is an isogram. Ignore letter case.*
+**Isograms KATA from CODEWARS:** _An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a string that contains only letters is an isogram. Assume the empty string is an isogram. Ignore letter case._
 
 ```
 function isIsogram(str){
@@ -49,24 +55,28 @@ if (input == output) {return true};
 return false
 }
 ```
-*******************************************
+
+---
+
 ### My Project
 
 [GitHub](https://github.com/AndreiApanel/First_project.git)
 
-**********************************************************
+---
+
 ### Courses:
 
-* Javascript on the Stepik.or (completed)
+- Javascript on the Stepik.or (completed)
 
-![certificate](https://stepik.org/certificate/36eb9ebc297f077f183e214b0dc587c8205f5990.png?resolution=low) 
+![certificate](https://stepik.org/certificate/36eb9ebc297f077f183e214b0dc587c8205f5990.png?resolution=low)
 
-* HTML, CSS. Basics of creating on the COSINUS (completed)
-* RS Schools Course JavaScript/Front-end. Stage 0 (in progress)
+- HTML, CSS. Basics of creating on the COSINUS (completed)
+- RS Schools Course JavaScript/Front-end. Stage 0 (in progress)
 
-************************************************
+---
+
 ### Languages:
 
-* English - A2 level (pre-intermediate)
-* Russian - Native
-* Polish - B1 level (intermediate)
+- English - A2 level (pre-intermediate)
+- Russian - Native
+- Polish - B1 level (intermediate)
