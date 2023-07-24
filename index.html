@@ -5,7 +5,176 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
-    <title>Document</title>
+    <title>cv</title>
   </head>
-  <body></body>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <div class="container">
+          <div class="header__inner">
+            <nav class="menu">
+              <ul class="menu__list">
+                <li class="menu__item">
+                  <a href="#" class="menu__item-link">Contact information</a>
+                </li>
+                <li class="menu__item">
+                  <a href="#" class="menu__item-link">About Myself</a>
+                </li>
+                <li class="menu__item">
+                  <a href="#" class="menu__item-link">Skills and Proficiency</a>
+                </li>
+                <li class="menu__item">
+                  <a href="#" class="menu__item-link">Code example</a>
+                </li>
+                <li class="menu__item">
+                  <a href="#" class="menu__item-link">My Project</a>
+                </li>
+                <li class="menu__item">
+                  <a href="#" class="menu__item-link">Courses</a>
+                </li>
+                <li class="menu__item">
+                  <a href="#" class="menu__item-link">Languages</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+          <div class="aboutme">
+            <div class="img">
+              <img src="assets/img/git.jpg" alt="myfoto" class="foto" />
+            </div>
+            <div class="aboutme__text">
+              <div class="name"><h1>Andrei Apanel</h1></div>
+              <div class="job"><h2>Junior Frontend Developer</h2></div>
+            </div>
+          </div>
+        </div>
+      </header>
+      <main class="main">
+        <div class="container">
+          <div class="main__container">
+            <section class="section">
+              <h2 class="section__title">Contact information</h2>
+              <ul class="contact__list">
+                <li class="list__item" id="location">
+                  <span>Poland</span>, Warszawa
+                </li>
+                <li class="list__item" id="mail">
+                  <span>E-mail:</span>aposha84@gmail.com
+                </li>
+                <li class="list__item" id="telegram">
+                  <span>Telegram:</span>@AndrzejApanel
+                </li>
+                <li class="list__item" id="linkedin">
+                  <span>LinkedIn:</span>
+                  https://www.linkedin.com/in/andrzej-apanel
+                </li>
+                <li class="list__item" id="discord">
+                  <span>Discord:</span>
+                  Andrei (AP0SHA)andreiapanel
+                </li>
+              </ul>
+              <div class="border"></div>
+            </section>
+            <section class="section">
+              <h2 class="section__title">About Myself</h2>
+              <p class="text">
+                I love developing useful and meaningful software. Although I try
+                to find beutiful and elegant soulutions. I'm currently honing my
+                skills by developing personal projects.
+                <br />
+                If I can be of assistance, please do not hesitate to contact me.
+                <br />
+                Please have a look at my personal project for more details about
+                me.<br />
+                Currently I'm open for work.
+              </p>
+              <div class="border"></div>
+            </section>
+            <section class="section">
+              <h2 class="section__title">Skills and Proficiency</h2>
+              <ul class="skills__list">
+                <li class="skills">HTML5,CSS3</li>
+                <li class="skills">JavaScript</li>
+                <li class="skills">Git, GitHub</li>
+                <li class="skills">VS Code, Adobe Photoshop</li>
+                <li class="skills">Figma</li>
+              </ul>
+              <div class="border"></div>
+            </section>
+            <section class="section">
+              <h2 class="section__title">Code example</h2>
+              <pre class="code">
+function isIsogram(str){
+var input = str.toLowerCase();
+var output = [...new Set(str.toLowerCase())].join``; 
+if (input == output) 
+{return true};
+return false }
+              </pre>
+              <div class="border"></div>
+            </section>
+            <section class="section">
+              <h2 class="section__title">My Project</h2>
+              <ul>
+                <li class="projects">
+                  <a
+                    href="https://github.com/AndreiApanel/First_project.git"
+                    class="github"
+                    >First_project</a
+                  >
+                </li>
+                <li class="projects">
+                  <a
+                    href="https://github.com/AndreiApanel/rsschool-cv"
+                    class="github"
+                    >Rsschool-cv</a
+                  >
+                </li>
+                <li class="projects">
+                  <a
+                    href="https://github.com/AndreiApanel/Plants"
+                    class="github"
+                    >Plants</a
+                  >
+                </li>
+              </ul>
+
+              <div class="border"></div>
+            </section>
+            <section class="section">
+              <h2 class="section__title">Courses</h2>
+              <div class="border"></div>
+            </section>
+            <section class="section">
+              <h2 class="section__title">Languages</h2>
+              <div class="border"></div>
+            </section>
+          </div>
+        </div>
+      </main>
+      <footer class="footer">
+        <div class="container">
+          <div class="wrapper__footer">
+            <div class="copyRight">
+              <p>
+                © 2023 &nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;andreiapanel
+              </p>
+            </div>
+            <div class="rsSchool">
+              <a href="https://rs.school/js/" class="logo">
+                <img
+                  src="assets/img/rsschool.png"
+                  alt="logo"
+                  class="logo_img"
+                />
+              </a>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <script defer src="script.js"></script>
+  </body>
 </html>
