@@ -208,6 +208,26 @@ a {
   color: #00ffff;
 }
 
+.skills {
+  margin-left: 10px;
+  position: relative;
+  padding-left: 20px;
+  color: #00ffff;
+  list-style-type: none;
+}
+
+.skills::before {
+  content: '';
+  position: absolute;
+  top: 4px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  border: 2px solid #010820;
+  border-radius: 20%;
+  background-color: #464959;
+}
+
 /* main finish */
 /* footer start  */
 .footer {
