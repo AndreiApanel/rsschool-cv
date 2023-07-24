@@ -153,9 +153,12 @@ a {
   flex-direction: column;
   list-style-type: none;
   list-style-position: inside;
+  justify-content: space-between;
+  gap: 5px;
 }
 .list__item {
   margin-left: 10px;
+  color: #00ffff;
 }
 
 #location {
