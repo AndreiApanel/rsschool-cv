@@ -36,7 +36,7 @@ Please have a look at my personal project for more details about me. Currently I
 
 ### Skills and Proficiency:
 
-- HTML5,CSS
+- HTML5,CSS3
 - JavaScript
 - Git, GitHub
 - VS Code, Adobe Photoshop
