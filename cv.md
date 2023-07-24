@@ -40,6 +40,7 @@ Please have a look at my personal project for more details about me. Currently I
 - JavaScript
 - Git, GitHub
 - VS Code, Adobe Photoshop
+- Figma
 
 ---
 
