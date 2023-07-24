@@ -140,23 +140,10 @@ a {
 .section {
   width: 50%;
 }
+
 .section__title {
-  /* position: relative;
-  padding-left: 30px; */
   color: rgb(139, 134, 0);
   letter-spacing: 2px;
-}
-
-.section__title::before {
-  /* content: '';
-  position: absolute;
-  top: 8px;
-  left: 0px;
-  width: 15px;
-  height: 15px; */
-  /* border: 1px solid #010820;
-  border-radius: 20%;
-  background-color: rgb(139, 134, 0); */
 }
 
 .contact__list {
@@ -168,7 +155,6 @@ a {
   gap: 5px;
 }
 .list__item {
-  margin-left: 10px;
   color: #00ffff;
 }
 
@@ -204,12 +190,10 @@ a {
 }
 
 .text {
-  margin-left: 10px;
   color: #00ffff;
 }
 
 .skills {
-  margin-left: 10px;
   position: relative;
   padding-left: 20px;
   color: #00ffff;
@@ -226,6 +210,14 @@ a {
   border: 2px solid #010820;
   border-radius: 20%;
   background-color: #464959;
+}
+
+.task {
+  color: #00ffff;
+}
+
+.code {
+  color: #00ffff;
 }
 
 /* main finish */
